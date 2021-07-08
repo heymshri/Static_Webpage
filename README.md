@@ -1,3 +1,6 @@
+#Webpage_Design
+
+
 It is a static web page
 designed on figma 
-the coded on html,css and js
+then coded on html,css and js
